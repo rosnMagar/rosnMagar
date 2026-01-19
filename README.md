@@ -1,4 +1,6 @@
-## Hi there 👋
+# HI! I'm Roshan Thapa Magar 👋
+
+I am a Computer and Data Science student at Truman State University with a passion for building scalable applications, AI-driven automation, and utilizing AI to solve problems in medicine and biology. Currently, I serve as the President of the Association for Computing Machinery (ACM) at Truman.
 
 <!--
 **rosnMagar/rosnMagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
