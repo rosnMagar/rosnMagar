@@ -13,7 +13,6 @@ I am a Computer and Data Science student at Truman State University with a passi
 - **IoT & Robotics**: Experimenting with ESP32-based systems, including emotive robot eye displays using TFT screens.
 
 ### 📊 GitHub Stats
-![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosnMagar&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosnMagar&layout=compact&theme=radical)
 
 <!--
